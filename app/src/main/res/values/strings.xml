@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Toast</string>
+    <string name="bt_toast">Show</string>
+    <string name="toast_message">"Пора покормить кота!"</string>
+</resources>

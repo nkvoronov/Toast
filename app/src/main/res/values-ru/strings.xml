@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Toast</string>
+    <string name="bt_toast">Показать</string>
+    <string name="toast_message">Пора покормить кота!</string>
+</resources>
